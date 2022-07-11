@@ -1,0 +1,1 @@
+60 dimensions are needed to achieve POV larger than 0.9

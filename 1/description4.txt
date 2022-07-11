@@ -1,0 +1,9 @@
+number of samples: 10000
+number of features: 784
+I see figures of single digit, ranged from 0 to 9.
+The reason behind this is that centroids are the points where the distances between them and the cluster data points are minimized and 
+converged. Therefore, those centroids will have features value similar to a cluster of data points. Since different cluster of data points
+might have different average values, we see different figures of single digit accordingly. And It also implies the informatiion of the data,
+which is about digits image.
+
+  

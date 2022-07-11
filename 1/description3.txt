@@ -1,0 +1,1 @@
+the best number of clusters is 5 as it achieves the highest score in difference metrics among other choices.
